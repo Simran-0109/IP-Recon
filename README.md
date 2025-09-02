@@ -1,5 +1,5 @@
-
 Specter - Web-Based Reconnaissance & Network Analysis Tool
+
 Specter is a comprehensive, web-based reconnaissance tool built with Python and Flask. It consolidates the functionality of multiple network analysis and OSINT (Open-Source Intelligence) tools into a single, user-friendly interface. This project is designed to streamline the initial phase of any network investigation by providing a holistic and organized report on a given target.
 
 In addition to its on-demand scanning capabilities, Specter also includes a real-time traffic analyzer and a basic network attack monitor.
@@ -127,4 +127,8 @@ Bash
 
 # (Activate your environment first)
 python live_analyzer.py
+
 Navigate to the "Live Traffic Analyzer" page on the web interface to see the output.
+<img width="1912" height="927" alt="Screenshot 2025-09-02 152727" src="https://github.com/user-attachments/assets/9c7ce364-b197-45cc-b9fa-f83e670fb371" />
+<img width="1917" height="927" alt="Screenshot 2025-09-02 152828" src="https://github.com/user-attachments/assets/6cd0c5ad-75c7-4338-852b-69255f9c3252" />
+<img width="1887" height="921" alt="Screenshot 2025-09-02 152948" src="https://github.com/user-attachments/assets/8720da41-7d83-4795-bbee-b8cd2abd3ae1" />
